@@ -30,7 +30,7 @@ Our exploration has revealed key insights into what makes a Hollywood movie prof
 Join us in this adventure to unravel the secrets of Hollywood's most profitable movies:
 
 
-Explore the 'R Script R studio' for analytical insights
+Explore the ' R studio' for analytical insights
 
 Dive into the 'Performance of Holliwood movies' for interactive visual storytelling.
 
