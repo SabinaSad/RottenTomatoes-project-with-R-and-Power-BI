@@ -39,3 +39,6 @@ Learn more about our findings in the 'Rotten Tomatoes' section.
 For direct access to the dataset, check the 'Clean Df' section.
 
 Let's uncover the magic behind Hollywood's goldmine together!
+
+![Screenshot 2024-02-26 151708](https://github.com/SabinaSad/RottenTomatoes-project-with-R-and-Power-BI/assets/122239926/a1210d82-586c-4145-a8b7-0ae350efa9ca)
+
